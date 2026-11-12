@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the output?\n\nx = 5\nprint(x)",
+    "options": ["5", "x", "Error", "None"],
+    "answer": "5"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "def", "function", "lambda"],
+    "answer": "def"
+  },
+  {
+    "question": "What is the output?\n\nprint(2 + 3 * 4)",
+    "options": ["20", "14", "24", "Error"],
+    "answer": "14"
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": ["list", "dict", "tuple", "set"],
+    "answer": "tuple"
+  },
+  {
+    "question": "What is the output?\n\nprint('Hello' + 'World')",
+    "options": ["HelloWorld", "Hello World", "Error", "Hello+World"],
+    "answer": "HelloWorld"
+  },
+  {
+    "question": "Which operator is used for floor division?",
+    "options": ["/", "//", "%", "**"],
+    "answer": "//"
+  },
+  {
+    "question": "What is the output?\n\nprint(10 // 3)",
+    "options": ["3.33", "3", "10", "Error"],
+    "answer": "3"
+  },
+  {
+    "question": "Which keyword is used to start a loop?",
+    "options": ["loop", "repeat", "for", "iterate"],
+    "answer": "for"
+  },
+  {
+    "question": "What is the output?\n\nprint(len('Python'))",
+    "options": ["5", "6", "7", "Error"],
+    "answer": "6"
+  },
+  {
+    "question": "Which function is used to get user input?",
+    "options": ["scan()", "input()", "read()", "get()"],
+    "answer": "input()"
+  },
+  {
+    "question": "What is the output?\n\nprint(type(3.5))",
+    "options": ["int", "float", "str", "Error"],
+    "answer": "float"
+  },
+  {
+    "question": "Which keyword is used to handle exceptions?",
+    "options": ["catch", "try", "except", "error"],
+    "answer": "except"
+  },
+  {
+    "question": "What is the output?\n\nprint(2 ** 3)",
+    "options": ["6", "8", "9", "Error"],
+    "answer": "8"
+  },
+  {
+    "question": "Which of these is a valid variable name?",
+    "options": ["2name", "name_2", "name-2", "name 2"],
+    "answer": "name_2"
+  },
+  {
+    "question": "What is the output?\n\nprint(bool(0))",
+    "options": ["True", "False", "Error", "None"],
+    "answer": "False"
+  },
+  {
+    "question": "Which keyword is used to import modules?",
+    "options": ["include", "import", "require", "module"],
+    "answer": "import"
+  },
+  {
+    "question": "What is the output?\n\nprint('Python'[0])",
+    "options": ["P", "y", "Error", "None"],
+    "answer": "P"
+  },
+  {
+    "question": "Which function converts string to integer?",
+    "options": ["str()", "int()", "float()", "eval()"],
+    "answer": "int()"
+  },
+  {
+    "question": "What is the output?\n\nprint(list(range(3)))",
+    "options": ["[0, 1, 2]", "[1, 2, 3]", "[0, 1, 2, 3]", "Error"],
+    "answer": "[0, 1, 2]"
+  },
+  {
+    "question": "Which keyword is used to exit a loop?",
+    "options": ["stop", "exit", "break", "end"],
+    "answer": "break"
+  }
+]

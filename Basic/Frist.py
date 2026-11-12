@@ -1,0 +1,6 @@
+print("Hello, World")
+print("Welcome to Python programming.")
+print("This is a simple program to demonstrate basic syntax.")  
+print("You can print multiple lines of text using the print function.")
+print("Python is a versatile language that can be used for various applications.")
+print("Let's explore more features of Python in the upcoming lessons!")
